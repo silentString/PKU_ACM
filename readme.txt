@@ -1,1 +1,1 @@
-This repository is all about the solution of problems from PKU acm(http://poj.org/)
+This repository is all about the solution of problems from PKU acm(http://poj.org/).
